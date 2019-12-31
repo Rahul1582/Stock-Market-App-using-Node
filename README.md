@@ -10,12 +10,11 @@ This provides the information such as current price, previous close, change perc
 
 ### Getting Started
 
-Handlebars Syntax
 The Handlebars library is another template engine. It inherits from Mustache and, for the most part, is compatible with Mustache’s syntax. However, Handlebars adds more features (i.e., a superset).
 Unlike Jade, by design, Handlebars was made so that developers can’t write a lot of JavaScript logic inside the templates. This helps to keep templates lean and related strictly to the representation of the data (no business logic).
 <br>
 Another drastic difference between Jade and Handlebars is that the latter requires full HTML code (<,>, and soon), and for this reason it could care less about whitespace and indentation.<br>
-A Handlebars expression is {{, some content, followed by }}<br>
+A Handlebars expression is {{ some content }}<br>
 Here we are using IEX Cloud API Key.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes:
@@ -28,9 +27,9 @@ You need to have installed Node.js in your System.
 
 Express,Express handlebars,request and body-parser..
 
-### Installation
+### Dependencies
 ```
-npm install
+Use npm install to download all the dependencies..
 ```
 
 ### To Run
