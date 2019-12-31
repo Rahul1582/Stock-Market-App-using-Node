@@ -45,7 +45,7 @@ Code is Running on
 
 ### Screenshot
 
-<img src ='https://github.com/Rahul1582/Stock-Market-App-using-Node-/blob/master/fb%20stock.PNG' width=300 height=300>
+<img src ='https://github.com/Rahul1582/Stock-Market-App-using-Node-/blob/master/fb%20stock.PNG' width=700 height=400>
 
 ### Author 
 
