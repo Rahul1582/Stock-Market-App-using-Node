@@ -18,7 +18,7 @@ Another drastic difference between Jade and Handlebars is that the latter requir
 A Handlebars expression is {{, some content, followed by }}<br>
 Here we are using IEX Cloud API Key.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. :heart:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes:
 
 ### Prerequisites
 
@@ -45,7 +45,9 @@ Code is Running on
 
 ### Screenshot
 
-<img src ='https://github.com/Rahul1582/Stock-Market-App-using-Node-/blob/master/fb%20stock.PNG' width=700 height=400>
+<img src ='https://github.com/Rahul1582/Stock-Market-App-using-Node-/blob/master/fb%20stock.PNG' width=850 height=450>
+<br>
+<img src ='https://github.com/Rahul1582/Stock-Market-App-using-Node-/blob/master/apple%20stock.PNG' width=850 height=450>
 
 ### Author 
 
