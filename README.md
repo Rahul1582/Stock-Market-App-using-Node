@@ -5,7 +5,7 @@ This is a Stock Market app developed using Node.js, Express and Javascript.
 ## Usage
 
 The use of this app is to keep track on the stock market i.e keeping track on different companies such as facebook, google etc.
-This provides the information such as current price, previous close, change percent, market cap, YTD change, Week 52 High, Week 52 Low and many more of different companies.
+This provides the information such as current price, previous close, change percent, market cap, YTD change, Week 52 High, Week 52 Low and many more of different companies..
 
 
 ### Getting Started
